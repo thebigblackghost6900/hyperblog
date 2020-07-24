@@ -1,2 +1,5 @@
 esta la hitsoria de un perro que se llamaba pegamendo un dia se cayo y se pego 
-XDXDXDXDXDXDX	
+XDXDXDXDXDXDX
+esta es una prueba para ver como funciona un repositorio remoto sin ser 
+el usuario master
+
